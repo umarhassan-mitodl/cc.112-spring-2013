@@ -14,7 +14,7 @@ Lecture: 1 session / week; 2 hours / session
 
 ## The Concourse Program
 
-This course is part of the {{% resource_link "9e88671e-58cc-4135-9dfc-75fd28471bef" "Concourse" %}} program at MIT. Concourse is a unique program for freshmen. It focuses on integration of the disciplines, teaching the rigorous scientific subjects within the broader human framework. Classes are taught by highly dedicated teachers in an interactive learning environment with small class sizes. This creates a high degree of student-faculty, and student-student interaction and therein a superior learning experience.
+This course is part of the [Concourse](https://concourse.mit.edu/) program at MIT. Concourse is a unique program for freshmen. It focuses on integration of the disciplines, teaching the rigorous scientific subjects within the broader human framework. Classes are taught by highly dedicated teachers in an interactive learning environment with small class sizes. This creates a high degree of student-faculty, and student-student interaction and therein a superior learning experience.
 
 ## Prerequisite
 
