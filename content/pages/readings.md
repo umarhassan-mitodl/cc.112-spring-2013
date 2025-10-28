@@ -37,7 +37,7 @@ Johnson, Robert A. "The Narrative: How Tristan Was Born and Grew Up To Be a Grea
 
 ———. "The Narrative: How Tristan Found Iseult of the White Hands and How Love and Death at Last Were Mixed." In *We: Understanding the Psychology of Romantic Love*. HarperOne, 2009, pp. 119–27. ISBN: 9780062504364. 
 
-[*Casablanca*](http://www.imdb.com/title/tt0034583/?ref_=sr_1). Directed by Michael Curtiz. Black and White, 102 min. 1942.
+{{% resource_link "bb14bbb1-47d2-4eea-aa48-330dc6d3338f" "*Casablanca*" %}}. Directed by Michael Curtiz. Black and White, 102 min. 1942.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -73,23 +73,23 @@ Nygren, Anders. "Agape and Eros." In *Eros,* *Agape and Philia: Readings in the 
 
 Buddhaghosa, Bhadantacariya. *The Path of Purification: Visuddhimagga*. Translated by Bhikkhu Nanamoli. Pariyatti Publishing, 2003. ISBN: 9781928706014.
 
-King, Jr., Martin Luther. "[The Power of Non-violence](https://whatsoproudlywehail.org/curriculum/the-american-calendar/the-power-of-nonviolence)." Teaching American History.org, June 4, 1957.
+King, Jr., Martin Luther. "{{% resource_link "5fa7a95e-b7c8-4a06-ba87-e32968d4ee44" "The Power of Non-violence" %}}." Teaching American History.org, June 4, 1957.
 
 Sivananda, Swami. "Ahimsa." Chapter 1 in *Bliss Divine: A Book on Spiritual Essays on the Lofty Purpose of Human Life and the Means to Its Achievement*. Divine Life Society, 2009. ISBN: 9788170520047.
 
-Murphy, Stephen. "[Brief Outline of Gandhi's Philosophy](http://www.mkgandhi.org/articles/murphy.htm)." Mahatma Gandhi Complete Information Website.
+Murphy, Stephen. "{{% resource_link "3c9716cc-1348-4790-b4af-a1af9a015f44" "Brief Outline of Gandhi's Philosophy" %}}." Mahatma Gandhi Complete Information Website.
 
-"[LOVE Lesson 7: Mahatma Gandhi On Love](http://www.gnostic.org/tree_1/09_love/09_love_7_gandhi.htm)." Gnostic.Org
+"{{% resource_link "0267cd8d-ee70-4202-bffc-1dd65d609804" "LOVE Lesson 7: Mahatma Gandhi On Love" %}}." Gnostic.Org
 
 *The following readings are from the New Testament:*
 
-[1 Corinthians 13 (New International Version)](http://www.biblegateway.com/passage/?search=1%20Corinthians%2013&version=NIV), BibleGateway.com.
+{{% resource_link "8d235471-fd64-4edd-a8ba-0c46e3342e86" "1 Corinthians 13 (New International Version)" %}}, BibleGateway.com.
 
-[Matthew 5 (New International Version)](http://www.biblegateway.com/passage/?search=matthew%205&version=NIV), BibleGateway.com
+{{% resource_link "90541979-501e-4e5e-844c-db9c01300bd1" "Matthew 5 (New International Version)" %}}, BibleGateway.com
 
-[1 John 4: 7-19 (New International Version)](http://www.biblegateway.com/passage/?search=1%20John%204:%207-19&version=NIV), BibleGateway.com
+{{% resource_link "5d21d780-fcc1-49a3-afad-f5f44ed66792" "1 John 4: 7-19 (New International Version)" %}}, BibleGateway.com
 
-[John 15: 9-19 (New International Version)](http://www.biblegateway.com/passage/?search=John%2015:%209-19&version=NIV), BibleGateway.com
+{{% resource_link "44effe15-cab2-4471-a5a2-81d8f886e5c7" "John 15: 9-19 (New International Version)" %}}, BibleGateway.com
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -101,7 +101,7 @@ Sartre, Jean-Paul. "Concrete Relations With Others." Part 3, Chapter 3 in *Being
 
 Olds, Sharon. "Sex Without Love." In *The Dead and the Living*. Alfred A. Knopf, Inc., 1984. ISBN: 9780394715636.
 
-[*The Piano*](http://www.imdb.com/title/tt0107822/?ref_=sr_3). Directed by Jane Campion. Color, 121 min. 1993.
+{{% resource_link "492b9f43-18d6-43cb-8845-bedc5f9ba86c" "*The Piano*" %}}. Directed by Jane Campion. Color, 121 min. 1993.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9–11
@@ -113,9 +113,9 @@ Plato. "The Symposium." In *Symposium and Phaedrus*. Dover Publications, 1994. I
 
 ———. "Phaedrus." In *Symposium and Phaedrus*. Dover Publications, 1994. ISBN: 9780486277981.
 
-[Love Poems of Rumi](http://www.khamush.com/love_poems.html). khamush.com
+{{% resource_link "464b344b-96f3-4609-8c75-22202f67f006" "Love Poems of Rumi" %}}. khamush.com
 
-Pulsegod1985. "The Origin Of Love – Hedwig And The Angry Inch." August 13, 2006. YouTube. Accessed August 6, 2013. [http://www.youtube.com/watch?v=_zU3U7E1Odc](http://www.youtube.com/watch?v=_zU3U7E1Odc)
+Pulsegod1985. "The Origin Of Love – Hedwig And The Angry Inch." August 13, 2006. YouTube. Accessed August 6, 2013. {{% resource_link "63397172-c5f5-4ad4-917c-07c74564e60e" "http://www.youtube.com/watch?v=_zU3U7E1Odc" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12–14
@@ -127,22 +127,22 @@ Aristotle. "Book VII: Continence and Incontinence." In *The Nicomachean Ethics o
 
 ———. "Book VIII: Friendship." In *The Nicomachean Ethics of Aristotle*. Translated by William David Ross. CreateSpace Independent Publishing Platform, 2011. ISBN: 9781463536275.
 
-Buber, Martin. "First Part." In *I and Thou*. Translated by Walter Kaufmann. Touchstone, 1971. ISBN: 9780684717258. \[Preview with [Google Books](http://books.google.com/books?id=5zDrO1fqXWYC&printsec=frontcover)\]
+Buber, Martin. "First Part." In *I and Thou*. Translated by Walter Kaufmann. Touchstone, 1971. ISBN: 9780684717258. \[Preview with {{% resource_link "23837768-ace5-455a-8233-8b139826bb82" "Google Books" %}}\]
 
 ———. "Second Part." In *I and Thou*. Translated by Walter Kaufmann. Touchstone, 1971. ISBN: 9780684717258.
 
-Nicol, Caitrin. "[Till Malfunction Do Us Part." (PDF)](http://www.thenewatlantis.com/docLib/20080324_TNA19SOTARobotIntimacy.pdf) *The New Atlantis* 19 (2008): 125–31.
+Nicol, Caitrin. "{{% resource_link "5c87f4fd-6579-4835-832d-80cc80835e25" "Till Malfunction Do Us Part.\" (PDF)" %}} *The New Atlantis* 19 (2008): 125–31.
 
 Hegel, G. W. F. Selections on mutual recognition in *Phenomenology of Spirit*. Translated by A.V. Miller with analysis of the text and foreward by J.N. Findlay. Oxford University Press, 1976. ISBN: 9780198245971.
 
 Levy, David. Selections from *Love + Sex with Robots: The Evolution of Human-Robot Relationships*. Harper Perennial, 2008. ISBN: 9780061359804.
 
-psicodelicopsicopata. "Paro Baby Seal." May 17, 2007. YouTube. Accessed August 6, 2013. [http://www.youtube.com/watch?v=3npV-npZkxI](http://www.youtube.com/watch?v=3npV-npZkxI)
+psicodelicopsicopata. "Paro Baby Seal." May 17, 2007. YouTube. Accessed August 6, 2013. {{% resource_link "9089a34e-6141-4c4d-ae64-399ca7cbb91f" "http://www.youtube.com/watch?v=3npV-npZkxI" %}}
 
-TheLowridingChrist. "The Twilight Zone-The Lonely-EP 7 Part 1." September 24, 2011. YouTube. Accessed August 7, 2013. [http://www.youtube.com/watch?v=fYbKjSCA-fs](http://www.youtube.com/watch?v=fYbKjSCA-fs)
+TheLowridingChrist. "The Twilight Zone-The Lonely-EP 7 Part 1." September 24, 2011. YouTube. Accessed August 7, 2013. {{% resource_link "f447e8f1-b4af-473e-99b7-cf5d0eb914cd" "http://www.youtube.com/watch?v=fYbKjSCA-fs" %}}
 
-TheLowridingChrist. "The Twilight Zone-The Lonely-Part 2." September 24, 2011. YouTube. Accessed August 7, 2013. [https://www.youtube.com/watch?v=zCleX01rPqI](http://www.youtube.com/watch?v=zCleX01rPqI)
+TheLowridingChrist. "The Twilight Zone-The Lonely-Part 2." September 24, 2011. YouTube. Accessed August 7, 2013. {{% resource_link "59eec49b-064f-4183-85f0-cf71e9aef121" "https://www.youtube.com/watch?v=zCleX01rPqI" %}}
 
-[*Sex, Lies, and Videotape*](http://www.imdb.com/title/tt0098724/?ref_=sr_1). Directed by Steven Soderbergh. Color, 100 min. 1989.
+{{% resource_link "0b083968-fe0e-4fc8-9e98-ed0fc2d854f6" "*Sex, Lies, and Videotape*" %}}. Directed by Steven Soderbergh. Color, 100 min. 1989.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
