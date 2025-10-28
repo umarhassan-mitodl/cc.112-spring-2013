@@ -4,8 +4,6 @@ description: Guidelines for writing a paper for the course.
 file: /courses/cc-112-philosophy-of-love-spring-2013/18e9a03a5cf2f562533d85f128dd0562_MITCC_112S13_WritingAPaper.pdf
 file_size: 131658
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
